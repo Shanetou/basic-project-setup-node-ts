@@ -1,1 +1,1 @@
-# cha-ching
+# basice setup for node + ts projects

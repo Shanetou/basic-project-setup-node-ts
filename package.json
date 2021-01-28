@@ -1,8 +1,8 @@
 {
-  "name": "cha-ching",
+  "name": "basic-project-setup-node-ts",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Shanetou/cha-ching.git",
+  "repository": "git@github.com:Shanetou/basic-project-setup-node-ts.git",
   "author": "Shane McQuerter <shanemcquerter@gmail.com>",
   "license": "MIT",
   "devDependencies": {
